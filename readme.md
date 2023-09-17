@@ -8,7 +8,7 @@ Este projeto corresponde à prova final da disciplina Banco de Dados I do curso 
 
 * O arquivo `prova.ipynb` contém a minha solução para as questões.
 * A pasta `img` contém as imagens utilizadas no notebook referentes às modelagens lógicas e conceituais dos exercícios.
-* A pasta `sql` contém as consultas em código SQL utilizados na resolução dos exercícios.
+* A pasta `sql` contém as consultas em código SQL utilizadas na resolução dos exercícios.
 
 ## Enunciado da prova
 
