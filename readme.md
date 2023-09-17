@@ -4,7 +4,13 @@ Este projeto corresponde à prova final da disciplina Banco de Dados I do curso 
 
 **Professor:** Lucas Ximenes
 
-## Enunciado
+## Sobre o repositório
+
+* O arquivo `prova.ipynb` contém a minha solução para as questões.
+* A pasta `img` contém as imagens utilizadas no notebook referentes às modelagens lógicas e conceituais dos exercícios.
+* A pasta `sql` contém as consultas em código SQL utilizados na resolução dos exercícios.
+
+## Enunciado da prova
 
 ### Modelagem e normalização de bancos de dados relacionais
 
@@ -80,9 +86,3 @@ b) Inserir pelo menos 1 aluno alocado em cada uma destas turmas na tabela aluno 
 c) Inserir pelo menos 2 alunos não alocados em nenhuma turma na tabela aluno (todos com NULL na coluna aluno_alocado);
 
 d) Atualizar a coluna aluno_alocado da tabela aluno, de modo que os alunos associados a uma disciplina recebam o valor True e alunos não associdos a nenhuma disciplina recebam o falor False para esta coluna.
-
-## Sobre o repositório
-
-* O arquivo `prova.ipynb` contém a minha solução para as questões.
-* A pasta `img` contém as imagens utilizadas no notebook.
-* A pasta `sql` contém as consultas em código sql utilizados na resolução dos exercícios.
