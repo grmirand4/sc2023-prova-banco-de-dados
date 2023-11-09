@@ -1,8 +1,8 @@
-# Avaliação - Banco de Dados I
+# [Avaliação - Banco de Dados I](https://github.com/grmirand4/sc2023-prova-banco-de-dados)
 
 Este projeto corresponde à prova final da disciplina Banco de Dados I do curso de Ciência de Dados da Ada Tech vinculado ao programa Santander Coders 2023.
 
-**Professor:** Lucas Ximenes
+**Professor:** [Lucas Ximenes](https://www.linkedin.com/in/luc4sxf/)
 
 ## Sobre o repositório
 
